@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\repos\YonkoBanking\YonkoBanking\bin\Debug\net6.0\YonkoBanking.exe
+C:\Users\Hugo\source\repos\YonkoBanking\YonkoBanking\bin\Debug\net6.0\YonkoBanking.deps.json
+C:\Users\Hugo\source\repos\YonkoBanking\YonkoBanking\bin\Debug\net6.0\YonkoBanking.runtimeconfig.json
+C:\Users\Hugo\source\repos\YonkoBanking\YonkoBanking\bin\Debug\net6.0\YonkoBanking.dll
+C:\Users\Hugo\source\repos\YonkoBanking\YonkoBanking\bin\Debug\net6.0\YonkoBanking.pdb
+C:\Users\Hugo\source\repos\YonkoBanking\YonkoBanking\obj\Debug\net6.0\YonkoBanking.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\repos\YonkoBanking\YonkoBanking\obj\Debug\net6.0\YonkoBanking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\repos\YonkoBanking\YonkoBanking\obj\Debug\net6.0\YonkoBanking.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\repos\YonkoBanking\YonkoBanking\obj\Debug\net6.0\YonkoBanking.AssemblyInfo.cs
+C:\Users\Hugo\source\repos\YonkoBanking\YonkoBanking\obj\Debug\net6.0\YonkoBanking.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\YonkoBanking\YonkoBanking\obj\Debug\net6.0\YonkoBanking.dll
+C:\Users\Hugo\source\repos\YonkoBanking\YonkoBanking\obj\Debug\net6.0\refint\YonkoBanking.dll
+C:\Users\Hugo\source\repos\YonkoBanking\YonkoBanking\obj\Debug\net6.0\YonkoBanking.pdb
+C:\Users\Hugo\source\repos\YonkoBanking\YonkoBanking\obj\Debug\net6.0\YonkoBanking.genruntimeconfig.cache
+C:\Users\Hugo\source\repos\YonkoBanking\YonkoBanking\obj\Debug\net6.0\ref\YonkoBanking.dll
